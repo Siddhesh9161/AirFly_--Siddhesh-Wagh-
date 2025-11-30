@@ -10,11 +10,8 @@ This repository contains the complete work done as part of the Infosys Springboa
 - **CSV Data** — Original raw data sourced from the publicly available US Flights (2008–2020) dataset  
 
 ## 📊 What’s Inside & How to Use  
-1. **`cleaned_flights.csv`** — Use this file if you want to rerun analyses, build new visuals or import into Power BI / other tools.  
-2. **`flights_EDA.ipynb`** — Open in Jupyter Notebook to reproduce all EDA steps, generate visualizations, and inspect sample data.  
-3. **`visualizations/` folder** — Contains static chart exports (PNG) which can be used in reports or presentations.  
-4. **`US Flight Data 2015.pbit`** — Launch in Power BI Desktop to explore the interactive dashboard with filters, slicers, maps, and KPIs.  
-5. **`EDA_Summary.csv`** — Quick overview of dataset metrics for reference or as input for reports.  
+1. **`EDA.ipynb`** — Open in Jupyter Notebook to reproduce all EDA steps, generate visualizations, and inspect sample data.  
+2. **`US Flight Data 2015.pbit`** — Launch in Power BI Desktop to explore the interactive dashboard with filters, slicers, maps, and KPIs.  
 
 ## 🎯 Key Features & Insights  
 - Comprehensive data cleaning and preprocessing of 5.8M+ flight records (2008–2020)  
@@ -26,10 +23,10 @@ This repository contains the complete work done as part of the Infosys Springboa
 - Clear segmentation: Delay analysis, Cancellation analysis— useful for stakeholders like airline operators and airport planners  
 
 ## 🔧 How to Reproduce / Extend the Work  
-1. Clone this repo to your local machine  
-2. Use `cleaned_flights.csv` as input if you prefer a clean dataset; or start from raw CSVs if you want full preprocessing  
-3. Run `flights_EDA.ipynb` to replicate EDA and charts  
-4. Open `PowerBI_Dashboard.pbix` with Power BI Desktop and explore dashboard or build new visuals  
+1. Clone this repo to your local machine
+2. Download Data From `EDA.ipynb` file
+3. Run `EDA.ipynb` to replicate EDA and charts  
+4. Open `US Flight Data 2015.pbit` with Power BI Desktop and explore dashboard or build new visuals  
 5. Add new analyses, dashboards or visualizations — and commit to your fork with meaningful commit messages  
 
 ## 📝 Note on Data Source & Licensing  
