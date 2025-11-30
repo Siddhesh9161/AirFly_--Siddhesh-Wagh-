@@ -24,7 +24,7 @@ This repository contains the complete work done as part of the Infosys Springboa
 
 ## 🔧 How to Reproduce / Extend the Work  
 1. Clone this repo to your local machine
-2. Download Data From `EDA.ipynb` file
+2. Download Data From `DataSet Link.txt` file
 3. Run `EDA.ipynb` to replicate EDA and charts  
 4. Open `US Flight Data 2015.pbit` with Power BI Desktop and explore dashboard or build new visuals  
 5. Add new analyses, dashboards or visualizations — and commit to your fork with meaningful commit messages  
@@ -33,5 +33,8 @@ This repository contains the complete work done as part of the Infosys Springboa
 - Original dataset sourced from the **US Flights Dataset (2008–2020)**, publicly available on Kaggle / U.S. Department of Transportation.  
 - Data is used for academic/research purposes only — no commercial exploitation.  
 
+
+
+Home Page Overview : 
 ---
 
