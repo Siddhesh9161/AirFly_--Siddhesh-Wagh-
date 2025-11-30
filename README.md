@@ -36,6 +36,8 @@ This repository contains the complete work done as part of the Infosys Springboa
 
 
 Home Page Overview/Screenshot :
-!(https://github.com/Siddhesh9161/AirFly_--Siddhesh-Wagh-/blob/main/SnapShot%20Of%20HomePage.png).
+![Dashboard Preview].(https://github.com/Siddhesh9161/AirFly_--Siddhesh-Wagh-/blob/main/SnapShot%20Of%20HomePage.png).
+
+
 ---
 
