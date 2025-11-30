@@ -13,7 +13,7 @@ This repository contains the complete work done as part of the Infosys Springboa
 1. **`cleaned_flights.csv`** — Use this file if you want to rerun analyses, build new visuals or import into Power BI / other tools.  
 2. **`flights_EDA.ipynb`** — Open in Jupyter Notebook to reproduce all EDA steps, generate visualizations, and inspect sample data.  
 3. **`visualizations/` folder** — Contains static chart exports (PNG) which can be used in reports or presentations.  
-4. **`PowerBI_Dashboard.pbix`** — Launch in Power BI Desktop to explore the interactive dashboard with filters, slicers, maps, and KPIs.  
+4. **`US Flight Data 2015.pbit`** — Launch in Power BI Desktop to explore the interactive dashboard with filters, slicers, maps, and KPIs.  
 5. **`EDA_Summary.csv`** — Quick overview of dataset metrics for reference or as input for reports.  
 
 ## 🎯 Key Features & Insights  
