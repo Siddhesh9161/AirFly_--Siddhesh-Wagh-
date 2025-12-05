@@ -40,5 +40,109 @@ This repository contains the complete work done as part of the Infosys Springboa
 Examplle : ![Dashboard Preview].(https://github.com/Siddhesh9161/AirFly_--Siddhesh-Wagh-/blob/main/SnapShot%20Of%20HomePage.png).
 
 
+
+\---
+
+Here is your **updated README section**, with a clean and clear instruction block for using the uploaded **Power BI `.pbit` template** and understanding the screenshot.
+You can copy–paste directly into your README.
+
 ---
 
+## 🖼️ Dashboard Overview & Instructions
+
+This repository includes:
+
+* A **dashboard screenshot** for quick preview
+* A **Power BI Template (.pbit)** file so users can load the dashboard with their own copy of the dataset
+
+### 📌 **Screenshot Added**
+
+A sample snapshot of the Home Page of the Power BI dashboard has been included here for reference:
+
+**Example:**
+![Dashboard Preview](https://github.com/Siddhesh9161/AirFly_--Siddhesh-Wagh-/blob/main/SnapShot%20Of%20HomePage.png)
+
+This image provides a preview of how the final dashboard appears once data is loaded.
+
+---
+
+## 📥 How to Use the `.pbit` Dashboard Template
+
+The file **`US Flight Data 2015.pbit`** uploaded in the repository is a **Power BI Template**, not a full dashboard file.
+A `.pbit` file contains all visuals, formatting, measures, relationships, and page layouts — but **requires the data to be imported** manually.
+
+Follow the steps below:
+
+### 🔹 **Step 1: Download the Template**
+
+1. Go to the repository
+2. Download the file: **`US Flight Data 2015.pbit`**
+3. Open it in **Power BI Desktop**
+
+---
+
+### 🔹 **Step 2: Import the Required Datasets**
+
+When the file opens, Power BI will ask you to provide data sources.
+
+Import the following files (from your system):
+
+1. **`flights_cleaned.csv`**
+2. **`airlines.csv`**
+3. **`airports.csv`**
+
+You can download these from the link provided in:
+➡️ **`Dataset Link.txt`**
+
+---
+
+### 🔹 **Step 3: Confirm Data Types**
+
+Before loading, ensure that:
+
+* Date column is in *Date* format
+* Airline/Airport codes are *Text*
+* Numeric fields (delay, distance, etc.) are *Whole Number / Decimal*
+
+---
+
+### 🔹 **Step 4: Load the Dashboard**
+
+Click **Load**.
+Power BI will automatically:
+
+* Build relationships
+* Refresh all visuals
+* Update KPIs and filters
+* Render maps and charts
+
+Your dashboard will now look exactly like the screenshot provided.
+
+---
+
+### 🔹 **Step 5: Explore or Modify**
+
+You can now:
+
+* Apply slicers and filters
+* Explore airline comparison
+* Drill down into airport performance
+* Add new pages or visuals
+* Export PDF reports
+* Publish to Power BI Service (optional)
+
+---
+
+## ✔️ Notes
+
+* The `.pbit` file ensures you can reuse your dashboard on any machine without embedding large datasets.
+* If you extend the dashboard, upload a `.pbix` version as well for full data sharing.
+
+---
+
+If you want, I can also:
+✅ Add a **GIF preview**
+✅ Add badges (Python, Power BI, Kaggle)
+✅ Add a more professional "Features" section
+
+Just tell me!
