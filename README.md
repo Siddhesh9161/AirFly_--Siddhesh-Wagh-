@@ -35,18 +35,8 @@ This repository contains the complete work done as part of the Infosys Springboa
 
 
 
-## Home Page Overview/Screenshot :
-
-Examplle : ![Dashboard Preview].(https://github.com/Siddhesh9161/AirFly_--Siddhesh-Wagh-/blob/main/SnapShot%20Of%20HomePage.png).
-
-
-
-\---
-
-Here is your **updated README section**, with a clean and clear instruction block for using the uploaded **Power BI `.pbit` template** and understanding the screenshot.
-You can copy–paste directly into your README.
-
 ---
+
 
 ## 🖼️ Dashboard Overview & Instructions
 
@@ -131,18 +121,3 @@ You can now:
 * Export PDF reports
 * Publish to Power BI Service (optional)
 
----
-
-## ✔️ Notes
-
-* The `.pbit` file ensures you can reuse your dashboard on any machine without embedding large datasets.
-* If you extend the dashboard, upload a `.pbix` version as well for full data sharing.
-
----
-
-If you want, I can also:
-✅ Add a **GIF preview**
-✅ Add badges (Python, Power BI, Kaggle)
-✅ Add a more professional "Features" section
-
-Just tell me!
